@@ -1,6 +1,6 @@
-<h1>AI MR SUHU - Open Source Generalist AI Agent</h1>
+<h1><a href="https://ai.mrsuhu.org">AI MR SUHU</a> - Open Source Generalist AI Agent</h1>
 
-<p>(that acts on your behalf)</p>
+<p>(link : <a href="https://ai.mrsuhu.org">ai.mrsuhu.org</a> )</p>
 
 <p>AI MR SUHU is a fully open source AI assistant that helps you accomplish real-world tasks with ease. Through natural conversation, AI MR SUHU becomes your digital companion for research, data analysis, and everyday challenges&mdash;combining powerful capabilities with an intuitive interface that understands what you need and delivers results.</p>
 
